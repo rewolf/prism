@@ -415,6 +415,10 @@
 			"require": "clike",
 			"owner": "sherblot"
 		},
+		"java-bytecode": {
+			"title": "Java Bytecode",
+			"owner": "rewolf"
+		},
 		"javadoc": {
 			"title": "JavaDoc",
 			"require": ["markup", "java", "javadoclike"],
